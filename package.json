@@ -1,0 +1,16 @@
+{
+  "name": "sql-builder",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "wadeabourne@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.4.7",
+    "esbuild": "^0.12.17",
+    "tsconfig-paths": "^3.10.1",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "prettier": "^2.3.2"
+  }
+}
